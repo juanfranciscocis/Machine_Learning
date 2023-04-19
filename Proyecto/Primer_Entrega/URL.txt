@@ -1,2 +1,0 @@
-https://www.aprendemachinelearning.com/7-pasos-machine-learning-construir-maquina/
-https://www.aprendemachinelearning.com/analisis-exploratorio-de-datos-pandas-python/
